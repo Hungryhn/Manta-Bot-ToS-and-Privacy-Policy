@@ -1,7 +1,7 @@
 # Privacy Policy
 
  # Consents
-By using our discord bot (Manta Bot#5810) you agree to our ToS and Privacy Policy.
+By using our discord bot (Manta Bot#5810) you agree to our ToS, Privacy Policy and also to the platform(Discord)'s rules.
 
  # Information (data) we collect
 From users we collect:
